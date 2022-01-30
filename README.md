@@ -1,1 +1,1 @@
-# basic_smart_contract
+# Akıllı Kontrat Geliştirme
